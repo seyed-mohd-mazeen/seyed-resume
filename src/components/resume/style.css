@@ -1,0 +1,15 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 25 October, 2022
+**/
+
+.content-container {
+    color: #000;
+    padding: 30px;
+    background-color: #f1f1f1;
+}
+.cell-500w {
+    max-width: 500px;
+}

@@ -1,0 +1,27 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 25 October, 2022
+**/
+
+.card span {
+    color: #464646;
+}
+.hobbies-list {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.hobbies-list li {
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+.hobbies-list li i {
+    margin-right: 5px;
+    font-size: 22px;
+    color: #2C3A47;
+}

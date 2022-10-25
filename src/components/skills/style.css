@@ -1,0 +1,26 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 25 October, 2022
+**/
+
+.cell-100w {
+    width: 100px;
+}
+.skill-list {
+    padding: 0;
+    list-style-type: none;
+}
+.skill-list li {
+    margin: 10px;
+    margin-left: 0;
+    font-size: 18px;
+    color: #464646;
+}
+.f-col-grey {
+    color: #bbbbbb;
+}
+.skill-list li i {
+    color: #fdcb6e;
+}

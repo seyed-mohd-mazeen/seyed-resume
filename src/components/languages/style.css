@@ -1,0 +1,27 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 25 October, 2022
+**/
+
+.languages-list {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.languages-list li {
+    display: inline-block;
+    margin: 0;
+    text-align: left;
+    margin-top: 10px;
+    margin-right: 15px;
+    color: #464646;
+}
+.languages-list img {
+    vertical-align: middle; 
+    margin-right: 5px;
+}
+.pb-10 {
+    padding-bottom: 10px;
+}

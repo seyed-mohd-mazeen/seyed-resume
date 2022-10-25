@@ -1,0 +1,46 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 25 October, 2022
+**/
+
+.project-list {
+    padding: 0;
+    list-style-type: none;
+}
+.project-list i {
+    font-size: 35px;
+    margin-top: 4px;
+}
+.project-list p {
+    margin: 0;
+    color: #464646;
+    max-width: 399px;
+}
+.project-list a {
+    color: #0077b5;
+    text-decoration: none;
+}
+.project-list a:hover {
+    color: #0077b5;
+    text-decoration: underline;
+}
+.project-list a i {
+    color: #0077b5;
+    font-size: 15px;
+    margin-top: 4px;
+    vertical-align: inherit;
+}
+.fa-money-check-dollar {
+    color: #3c9733;
+}
+.fa-calculator {
+    color: #a29bfe;
+}
+.fa-slack {
+    color: #d91d57;
+}
+.fa-whatsapp {
+    color: 	#46c254;
+}

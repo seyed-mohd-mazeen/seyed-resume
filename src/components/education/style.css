@@ -1,0 +1,32 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 25 October, 2022
+**/
+
+.educations-list {
+    padding: 0;
+    list-style-type: none;
+}
+.educations-list i {
+    font-size: 35px;
+    margin-top: 4px;
+}
+.educations-list p {
+    margin: 0;
+    color: #464646;
+    max-width: 420px;
+}
+.fa-school {
+    color: #0a50a5;
+}
+.fa-building-columns {
+    color: #32a543;
+}
+.fa-graduation-cap{
+    color: #881515
+}
+.educations-list .fa-certificate {
+    color: #ffeaa7;
+}

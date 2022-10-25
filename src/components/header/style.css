@@ -1,0 +1,47 @@
+/*
+*
+* style.css
+* @author - Mazeen
+* @date - 25 October, 2022
+**/
+
+header {
+    background-color: #252525;
+    color: #fff;
+    padding: 30px;
+}
+.cell-230w {
+    max-width: 230px;
+}
+.t-right {
+    text-align: right;
+}
+.t-left {
+    text-align: left;
+}
+.t-center {
+    text-align: center;
+}
+h1 {
+    margin: 10px;
+}
+h3 {
+    margin: 0;
+    margin-bottom: 10px;
+}
+.header-list {
+    padding: 0;
+    margin: 0;  
+}
+.header-list li {
+    list-style-type: none;
+    margin: 10px;
+    font-size: 18px;
+}
+.header-list li a {
+    text-decoration: none;
+    color: #f9f9f9;
+}
+.header-list li i {
+    margin: 10px;
+}
